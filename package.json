@@ -1,0 +1,10 @@
+{
+  "name": "my-portfolio-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix ankit-portfolio run dev",
+    "build": "npm --prefix ankit-portfolio run build",
+    "preview": "npm --prefix ankit-portfolio run preview"
+  }
+}

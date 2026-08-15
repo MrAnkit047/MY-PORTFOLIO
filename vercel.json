@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm --prefix ankit-portfolio run build",
+  "outputDirectory": "ankit-portfolio/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
